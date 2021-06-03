@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-Areekal
+- 👋 Hi, I’m @Sanddra Aravind Areekal
 - 👀 I’m interested in quantitative physiology 
 - 🌱 I’m currently learning git 
 
