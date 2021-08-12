@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sandra Aravind Areekal
-- 👀 I’m interested in quantitative physiology 
-- 🌱 I’m currently learning git 
+- 👋  Hey you, I’m Sandra A. Areekal
+- 👀 I’m interested in quantitative physiology and specifically work on modelling growth processes in children and adolescents. 
+
 
 
 <!---
