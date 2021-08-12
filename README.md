@@ -1,5 +1,6 @@
 - 👋  Hey there, I’m Sandra A. Areekal
-- 👀 I’m interested in quantitative physiology and specifically work on modelling growth processes in children and adolescents. 
+- 👀 I’m interested in quantitative physiology. 
+
 
 
 
