@@ -1,5 +1,5 @@
 - 👋  Hey there, I’m Sandra A. Areekal
-- 👀 I’m interested in quantitative physiology. 
+- 👀 I’m interested in quantitative modelling of human physiology. 
 
 
 
