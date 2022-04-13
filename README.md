@@ -1,5 +1,6 @@
 -  Hey there, I’m Sandra Aravind Areekal
 - I’m interested in applying quantitative modelling in human physiology. 
+- Learn more about me here https://sandraaravind.rbind.io
 
 
 
