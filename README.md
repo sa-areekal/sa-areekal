@@ -1,5 +1,5 @@
 -  Hey there, I’m Sandra Aravind Areekal
-- I’m interested in applying quantitative modelling in human physiology. 
+- I’m interested in studying child growth. 
 - Learn more about me here https://sandraaravind.rbind.io
 
 
