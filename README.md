@@ -1,5 +1,5 @@
 -  Hey there, I’m Sandra Aravind Areekal
-- I’m interested in studying child growth. 
+- I’m interested in longitudinal data analysis in human biology/physiology
 - Learn more about me here https://sandraaravind.rbind.io
 
 
