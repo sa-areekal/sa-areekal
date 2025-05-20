@@ -1,5 +1,5 @@
 -  Hey there, I’m Sandra Aravind Areekal
-- I am interested in longitudinal data analysis to understand human biology/physiology
+- I am interested in using longitudinal data analysis to study human health across life course
 - Learn more about me here https://sandraaravind.rbind.io
 
 
